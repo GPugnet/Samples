@@ -1,0 +1,2 @@
+C:\Users\guillaume.pugnet\Source\Repos\TestsDemo\InAssemblyParallel\UTA3\obj\Debug\UTA3.csprojResolveAssemblyReference.cache
+C:\Users\guillaume.pugnet\Source\Repos\TestsDemo\InAssemblyParallel\UTA3\obj\Debug\UTA3.csproj.CoreCompileInputs.cache

@@ -52,9 +52,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+    <ProjectReference Include="..\ClassLibrary1\TestMe.csproj">
       <Project>{0be4bedc-1188-4587-a12e-19da16963789}</Project>
-      <Name>ClassLibrary1</Name>
+      <Name>TestMe</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

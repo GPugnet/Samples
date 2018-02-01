@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/InAssemblyParallel/.vs/inassemblyparallel/v15
+/InAssemblyParallel/ClassLibrary1/bin/Debug
+/InAssemblyParallel/ClassLibrary1/obj
+/InAssemblyParallel/packages
+/InAssemblyParallel/UTA1/bin/Debug
+/InAssemblyParallel/UTA1/obj
